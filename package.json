@@ -1,14 +1,17 @@
 {
   "name": "vue-heroku-boilerplate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "express": "^4.17.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
