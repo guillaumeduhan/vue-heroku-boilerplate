@@ -1,24 +1,42 @@
-# vue-heroku-boilerplate
+# Vue Heroku Boilerplate
 
-## Project setup
+![logo](https://repository-images.githubusercontent.com/238940698/6cba0b80-49bd-11ea-932b-d0952d3d59e0)
+
+- Vue 2
+- Vue-CLI 3
+- Node, Express
+
+## Getting Started
+
+Clone project and enter in folder:
+
 ```
-npm install
+cd vue-heroku-boilerplate
 ```
 
-### Compiles and hot-reloads for development
+Run npm install:
+
+```
+npm i
+```
+Enjoy:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Built With
 
-### Lints and fixes files
-```
-npm run lint
-```
+* [Vue CLI](https://cli.vuejs.org/) - Standard Tooling for Vue.js Development
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning.
+
+## Authors ✨
+
+* **guillaumeduhan** - *Initial work* - [Github](https://github.com/guillaumeduhan)
+
+## License
+
+This project is licensed under the MIT License.
